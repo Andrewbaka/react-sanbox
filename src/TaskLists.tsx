@@ -8,16 +8,16 @@ export function TaskLists() {
       name: "Поход в магазин",
       tasks: [
         {
-          name: "купить хлэб",
+          name: "купить хлеб",
           status: "new",
-          description: "обязательно купить черный хлэб",
+          description: "обязательно купить черный хлеб",
           createdAt: new Date(),
           updatedAt: new Date(),
         },
         {
-          name: "купить морков",
+          name: "купить морковь",
           status: "new",
-          description: "обязательно купить черный хлэб",
+          description: "обязательно купить морковь",
           createdAt: new Date(),
           updatedAt: new Date(),
         },
